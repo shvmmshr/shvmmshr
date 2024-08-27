@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shivam
+- CS Undergrad
 
 <!---
 shvmmshr/shvmmshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
