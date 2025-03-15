@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam
-- CS Undergrad
+- Idk what should I write here
 
 <!---
 shvmmshr/shvmmshr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
